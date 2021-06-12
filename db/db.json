@@ -2,25 +2,33 @@
   "games": [
     {
       "id": 1,
-      "homeTeam": "Blue Falcons",
-      "awayTema": "Renegades",
+      "homeTeam": "bears",
+      "awayTeam": "eagles",
       "date": "July 1",
       "time": "8:00pm",
       "isCanceled": false
     },
     {
       "id": 2,
-      "homeTeam": "Spartans",
-      "awayTema": "Red Devils",
+      "homeTeam": "bulls",
+      "awayTeam": "panthers",
       "date": "July 1",
       "time": "10:00pm",
-      "isCanceled": false
+      "isCanceled": true
     },
     {
       "id": 3,
-      "homeTeam": "Tidal Wave",
-      "awayTema": "Renegades",
+      "homeTeam": "rhinos",
+      "awayTeam": "tigers",
       "date": "July 3",
+      "time": "8:00pm",
+      "isCanceled": false
+    },
+    {
+      "id": 4,
+      "homeTeam": "sharks",
+      "awayTeam": "wolves",
+      "date": "July 7",
       "time": "8:00pm",
       "isCanceled": false
     }
