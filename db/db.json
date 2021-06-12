@@ -31,6 +31,14 @@
       "date": "July 7",
       "time": "8:00pm",
       "isCanceled": false
+    },
+    {
+      "id": 5,
+      "homeTeam": "panthers",
+      "awayTeam": "eagles",
+      "date": "July 10",
+      "time": "8:00pm",
+      "isCanceled": false
     }
   ]
 }
