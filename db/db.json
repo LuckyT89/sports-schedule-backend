@@ -31,6 +31,38 @@
       "date": "July 7",
       "time": "8:00pm",
       "isCanceled": false
+    },
+    {
+      "id": 5,
+      "homeTeam": "tigers",
+      "awayTeam": "eagles",
+      "date": "July 10",
+      "time": "7:00pm",
+      "isCanceled": false
+    },
+    {
+      "id": 6,
+      "homeTeam": "sharks",
+      "awayTeam": "panthers",
+      "date": "July 13",
+      "time": "8:00pm",
+      "isCanceled": true
+    },
+    {
+      "id": 7,
+      "homeTeam": "rhinos",
+      "awayTeam": "bears",
+      "date": "July 13",
+      "time": "10:00pm",
+      "isCanceled": false
+    },
+    {
+      "id": 8,
+      "homeTeam": "bulls",
+      "awayTeam": "wolves",
+      "date": "July 15",
+      "time": "8:00pm",
+      "isCanceled": false
     }
   ]
 }
